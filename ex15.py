@@ -16,3 +16,5 @@ print txt_again.read()
 
 def new_fun():
 	return "new fun"
+
+print "Type the filename again:"
